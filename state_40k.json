@@ -69,6 +69,60 @@
       "adset_id": "120251572686950004",
       "total_spend": 40258,
       "paused_at": "2026-10-23 00:00 WIB"
+    },
+    "120251438075050004": {
+      "name": "Desember - Img 5",
+      "adset_id": "120251438075170004",
+      "total_spend": 44763,
+      "paused_at": "2026-10-01 00:05 WIB"
+    },
+    "120251427293180004": {
+      "name": "November RA - 4",
+      "adset_id": "120251427151140004",
+      "total_spend": 56907,
+      "paused_at": "2026-10-03 00:06 WIB"
+    },
+    "120251404669580004": {
+      "name": "desember | saudia_9_hari_5.jpg | judul2",
+      "adset_id": "120251404467970004",
+      "total_spend": 53551,
+      "paused_at": "2026-10-05 00:12 WIB"
+    },
+    "120251630361930004": {
+      "name": "9 Hari Januari | Desain 4 | baru",
+      "adset_id": "120251630006050004",
+      "total_spend": 40104,
+      "paused_at": "2026-10-11 00:05 WIB"
+    },
+    "120251572686940004": {
+      "name": "Desember - Img 7",
+      "adset_id": "120251572686960004",
+      "total_spend": 47944,
+      "paused_at": "2026-10-13 00:04 WIB"
+    },
+    "120251572686840004": {
+      "name": "Desember - Img 5",
+      "adset_id": "120251572686950004",
+      "total_spend": 47449,
+      "paused_at": "2026-10-16 00:00 WIB"
+    },
+    "120251630307930004": {
+      "name": "9 Hari Januari | januari_1 | baru",
+      "adset_id": "120251630044820004",
+      "total_spend": 62382,
+      "paused_at": "2026-10-18 00:05 WIB"
+    },
+    "120251630235870004": {
+      "name": "9 Hari Januari | januari_2 | baru",
+      "adset_id": "120251630044800004",
+      "total_spend": 48729,
+      "paused_at": "2026-10-19 00:04 WIB"
+    },
+    "120251630242070004": {
+      "name": "9 Hari Januari | Desain 4 | baru",
+      "adset_id": "120251630044800004",
+      "total_spend": 42305,
+      "paused_at": "2026-10-19 00:04 WIB"
     }
   },
   "1050343302646341": {
@@ -263,6 +317,12 @@
       "adset_id": "120254774741200427",
       "total_spend": 43060,
       "paused_at": "2026-10-13 00:04 WIB"
+    },
+    "120254944599190427": {
+      "name": "12 Hari Januari Indonesia | Desain 2 #2",
+      "adset_id": "120254774741120427",
+      "total_spend": 84426,
+      "paused_at": "2026-10-25 00:05 WIB"
     }
   },
   "873443374652541": {
@@ -359,62 +419,6 @@
       "adset_id": "120252538070740584",
       "total_spend": 43972,
       "paused_at": "2026-10-18 00:05 WIB"
-    }
-  },
-  "1019832712800468": {
-    "120251438075050004": {
-      "name": "Desember - Img 5",
-      "adset_id": "120251438075170004",
-      "total_spend": 44763,
-      "paused_at": "2026-10-01 00:05 WIB"
-    },
-    "120251427293180004": {
-      "name": "November RA - 4",
-      "adset_id": "120251427151140004",
-      "total_spend": 56907,
-      "paused_at": "2026-10-03 00:06 WIB"
-    },
-    "120251404669580004": {
-      "name": "desember | saudia_9_hari_5.jpg | judul2",
-      "adset_id": "120251404467970004",
-      "total_spend": 53551,
-      "paused_at": "2026-10-05 00:12 WIB"
-    },
-    "120251630361930004": {
-      "name": "9 Hari Januari | Desain 4 | baru",
-      "adset_id": "120251630006050004",
-      "total_spend": 40104,
-      "paused_at": "2026-10-11 00:05 WIB"
-    },
-    "120251572686940004": {
-      "name": "Desember - Img 7",
-      "adset_id": "120251572686960004",
-      "total_spend": 47944,
-      "paused_at": "2026-10-13 00:04 WIB"
-    },
-    "120251572686840004": {
-      "name": "Desember - Img 5",
-      "adset_id": "120251572686950004",
-      "total_spend": 47449,
-      "paused_at": "2026-10-16 00:00 WIB"
-    },
-    "120251630307930004": {
-      "name": "9 Hari Januari | januari_1 | baru",
-      "adset_id": "120251630044820004",
-      "total_spend": 62382,
-      "paused_at": "2026-10-18 00:05 WIB"
-    },
-    "120251630235870004": {
-      "name": "9 Hari Januari | januari_2 | baru",
-      "adset_id": "120251630044800004",
-      "total_spend": 48729,
-      "paused_at": "2026-10-19 00:04 WIB"
-    },
-    "120251630242070004": {
-      "name": "9 Hari Januari | Desain 4 | baru",
-      "adset_id": "120251630044800004",
-      "total_spend": 42305,
-      "paused_at": "2026-10-19 00:04 WIB"
     }
   },
   "1060984719243481": {
